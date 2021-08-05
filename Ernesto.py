@@ -45,4 +45,4 @@ elif len(Twitter) > len(Slack_Username):
             #print(h)
 
 #Printing each output on a new line
-print ("{}\n{}\n{}\n{}\n{}\n{}".format(Name, Email_Address, Slack_Username, Biostack, Twitter, h))
+print ("{}, {}, {}, {}, {},{}".format(Name, Email_Address, Slack_Username, Biostack, Twitter, h))
